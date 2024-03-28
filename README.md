@@ -2,7 +2,7 @@
 
 E-mail: zeyadsoliman96@gmail.com
 
-Languages & Tools: ![HTML](https://img.shields.io/badge/HTML-5-blue) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+Languages & Tools: ![HTML](https://www.w3.org/html/) ![CSS](https://www.w3schools.com/css/) ![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
@@ -11,11 +11,7 @@ Languages & Tools: ![HTML](https://img.shields.io/badge/HTML-5-blue) ![CSS](http
 **ZeyadGamal96/ZeyadGamal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![GitHub stars](https://img.shields.io/github/stars/ZeyadGamal96/ZeyadGamal96?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ZeyadGamal96/ZeyadGamal96?style=social)
-![GitHub issues](https://img.shields.io/github/issues/ZeyadGamal96/ZeyadGamal96)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ZeyadGamal96/ZeyadGamal96)
 
 
 - 🔭 I’m currently working on ...
