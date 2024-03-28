@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+E-mail: zeyadsoliman96@gmail.com
+
 <!--
 **ZeyadGamal96/ZeyadGamal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
