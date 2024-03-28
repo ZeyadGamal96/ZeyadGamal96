@@ -7,6 +7,8 @@ Languages & Tools:
     <img src="html5-original-wordmark.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://www.w3schools.com/css/">
     <img src="css3-original-wordmark.svg" width="50" alt="Tool or Language Name">
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="javascript-original.svg" width="50" alt="Tool or Language Name">
 </a>
 
 
