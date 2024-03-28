@@ -9,7 +9,9 @@ Languages & Tools:
     <img src="css3-original-wordmark.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="javascript-original.svg" width="50" alt="Tool or Language Name">
-</a>
+</a> <a href="https://getbootstrap.com/">
+    <img src="png-transparent-bootstrap-plain-wordmark-logo-icon.png" width="50" alt="Tool or Language Name">
+</a> 
 
 
 
