@@ -3,6 +3,7 @@
 E-mail: zeyadsoliman96@gmail.com
 
 Languages & Tools:
+
 <a href="https://www.w3.org/html/">
     <img src="html5-original-wordmark.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://www.w3schools.com/css/">
@@ -13,7 +14,17 @@ Languages & Tools:
     <img src="bootstrap-plain-wordmark.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://git-scm.com/">
     <img src="68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" width="50" alt="Tool or Language Name">
-</a> 
+</a> <a href="https://postman.com/">
+    <img src="postman.svg" width="50" alt="Tool or Language Name">
+</a> <a href="https://reactjs.org/">
+    <img src="react-original-wordmark.svg" width="50" alt="Tool or Language Name">
+</a> <a href="https://sass-lang.com/">
+    <img src="sass-original.svg" width="50" alt="Tool or Language Name">
+</a> <a href="https://www.typescriptlang.org/">
+    <img src="typescript-original.svg" width="50" alt="Tool or Language Name">
+</a> <a href="https://nextjs.org/">
+    <img src="next-js-icon-2048x2048-5dqjgeku.png" width="50" alt="Tool or Language Name">
+</a>
 
 
 
