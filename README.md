@@ -3,7 +3,7 @@
 E-mail: zeyadsoliman96@gmail.com
 
 Languages & Tools: <a href="https://www.w3.org/html/">
-    <img src="html5-original-wordmark.svg" class="w-25" alt="Tool or Language Name">
+    <img src="html5-original-wordmark.svg" width="100" alt="Tool or Language Name">
 </a>
  ![CSS](https://www.w3schools.com/css/) ![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
