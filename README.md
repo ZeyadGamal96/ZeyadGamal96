@@ -2,6 +2,11 @@
 
 E-mail: zeyadsoliman96@gmail.com
 
+Languages & Tools: ![HTML](https://img.shields.io/badge/HTML-5-blue) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+
+
+
 <!--
 **ZeyadGamal96/ZeyadGamal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
