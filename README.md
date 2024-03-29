@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Zeyad Gamal, I'm a junior front-end developer actively seeking job opportunities. Feel free to reach out to me via email: zeyadsoliman96@gmail.com.
+I am Zeyad Gamal, a motivated and enthusiastic junior front-end developer with a passion for crafting responsive and visually appealing web applications. Eager to apply my technical skills and knowledge in HTML, CSS, JavaScript, and frameworks like ReactJS to contribute to dynamic projects. Seeking an opportunity to grow professionally in a competitive and collaborative environment where I can learn from experienced colleagues. Feel free to reach out to me via email: zeyadsoliman96@gmail.com.
 
 ## Goals and Interests
 - Passionate about front-end development and user interface design.
