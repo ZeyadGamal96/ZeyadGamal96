@@ -11,10 +11,10 @@ My name is Zeyad Gamal, I'm a junior front-end developer actively seeking job op
     <img src="html5-original-wordmark.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://www.w3schools.com/css/">
     <img src="css3-original-wordmark.svg" width="50" alt="Tool or Language Name">
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="javascript-original.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://getbootstrap.com/">
     <img src="Bootstrap_logo.svg" width="50" alt="Tool or Language Name">
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="javascript-original.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://git-scm.com/">
     <img src="68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://postman.com/">
