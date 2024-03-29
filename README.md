@@ -26,7 +26,7 @@ Languages & Tools:
 </a> <a href="https://jquery.com/">
     <img src="pngwing.com.png" width="100" alt="Tool or Language Name">
 </a> <a href="https://www.npmjs.com/">
-    <img src="npm.svg" width="50" alt="Tool or Language Name">
+    <img src="npm.svg" width="75" alt="Tool or Language Name">
 </a>
 
 
