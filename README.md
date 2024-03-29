@@ -1,12 +1,12 @@
 # Hi there 👋
 
-My name is Zeyad Gamal, I'm a junior developer actively seeking job opportunities. Feel free to reach out to me via email: zeyadsoliman96@gmail.com.
+My name is Zeyad Gamal, I'm a junior front-end developer actively seeking job opportunities. Feel free to reach out to me via email: zeyadsoliman96@gmail.com.
 
 ## Goals and Interests
 - Passionate about front-end development and user interface design.
 - Interested in learning new technologies and keeping up to date with trends in the industry.
 
-Languages & Tools:
+## Languages & Tools:
 
 <a href="https://www.w3.org/html/">
     <img src="html5-original-wordmark.svg" width="50" alt="Tool or Language Name">
