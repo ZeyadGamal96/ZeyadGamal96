@@ -23,9 +23,9 @@ Languages & Tools:
     <img src="sass-original.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://www.typescriptlang.org/">
     <img src="typescript-original.svg" width="50" alt="Tool or Language Name">
-</a> <a href="https://nextjs.org/">
-    <img src="next-js-icon-2048x2048-5dqjgeku.png" width="50" alt="Tool or Language Name">
-</a>
+</a> <a href="https://jquery.com/">
+    <img src="pngegg.png" width="50" alt="Tool or Language Name">
+</a> 
 
 
 
