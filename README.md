@@ -24,7 +24,7 @@ Languages & Tools:
 </a> <a href="https://www.typescriptlang.org/">
     <img src="typescript-original.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://jquery.com/">
-    <img src="pngwing.com.png" width="50" alt="Tool or Language Name">
+    <img src="pngwing.com.png" width="75" alt="Tool or Language Name">
 </a> 
 
 
