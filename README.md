@@ -1,7 +1,6 @@
 # Hi there 👋
 
-E-mail: 
-zeyadsoliman96@gmail.com
+📧 E-mail: zeyadsoliman96@gmail.com
 
 Languages & Tools:
 
