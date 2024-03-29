@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I'm [Zeyad Gamal](https://github.com/ZeyadGamal96) 👋
+
+## GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/ZeyadGamal96?style=social)
+![GitHub repositories](https://img.shields.io/github/repositories/ZeyadGamal96/yourusername)
+![GitHub stars](https://img.shields.io/github/stars/ZeyadGamal96?style=social)
+
 
 E-mail: 
 zeyadsoliman96@gmail.com
