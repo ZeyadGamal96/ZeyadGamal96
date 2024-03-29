@@ -21,6 +21,8 @@ My name is Zeyad Gamal, I'm a junior front-end developer actively seeking job op
     <img src="postman.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://reactjs.org/">
     <img src="react-original-wordmark.svg" width="50" alt="Tool or Language Name">
+</a> <a href="https://redux.js.org/">
+    <img src="redux.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://sass-lang.com/">
     <img src="sass-original.svg" width="50" alt="Tool or Language Name">
 </a> <a href="https://www.typescriptlang.org/">
